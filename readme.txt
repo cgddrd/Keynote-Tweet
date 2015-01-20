@@ -7,7 +7,9 @@ The Twitter OAuthpocalypse came, broke its posting method, and it wasn't updated
 
 Splatdot.com updated to use a different posting technique. http://splatdot.com/the-oauthpocalypse-and-keynote-tweet/
 
-This is that, now modified by Toby Harris (tobyz.net) to be able to handle multiple tweets per slide and hosted on github. So now you can tweet the slide's text and the asides, links etc. to go with it.
+Toby Harris (tobyz.net) modified to be able to handle multiple tweets per slide and hosted on github. So now you can tweet the slide's text and the asides, links etc. to go with it.
+
+Andrew Steinman used Used the updated code from Alan Levine and Thomas Brady with some changes to make Keynote Tweet work in Yosemite with Keynote 6.
 
 // INSTALL
 

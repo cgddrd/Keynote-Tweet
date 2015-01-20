@@ -9,7 +9,7 @@ Splatdot.com updated to use a different posting technique. http://splatdot.com/t
 
 Toby Harris (tobyz.net) modified to be able to handle multiple tweets per slide and hosted on github. So now you can tweet the slide's text and the asides, links etc. to go with it.
 
-Andrew Steinman used Used the updated code from Alan Levine and Thomas Brady (Located here: http://cogdogblog.com/2013/09/21/geeking-the-keynote-tweet-app-again-updated-instructions/) with some changes to make Keynote Tweet work in Yosemite with Keynote 6.
+Andrew Steinman used the updated code from Alan Levine and Thomas Brady (Located here: http://cogdogblog.com/2013/09/21/geeking-the-keynote-tweet-app-again-updated-instructions/) with some changes to make Keynote Tweet work in Yosemite with Keynote 6.
 
 // INSTALL
 

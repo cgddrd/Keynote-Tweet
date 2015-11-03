@@ -1,4 +1,3 @@
-// INFO
 
 Keynote Tweet is a simple AppleScript utility that allows you to send tweets from your Keynote presentations.
 
@@ -11,10 +10,13 @@ Toby Harris (tobyz.net) modified to be able to handle multiple tweets per slide 
 
 Andrew Steinman used the updated code from Alan Levine and Thomas Brady (Located here: http://cogdogblog.com/2013/09/21/geeking-the-keynote-tweet-app-again-updated-instructions/) with some changes to make Keynote Tweet work in Yosemite with Keynote 6.
 
-// INSTALL
+**Update (Nov 2015):** Connor Goddard added the full path of `twurl` to become `usr/bin/local/twurl` to fix issues where `do shell script` fails to find the full `$PATH`. 
+
+##Installation
 
 In order for the script to work, you'll need to install and configure twurl. You can find the twurl download and documentation here:
 
     http://github.com/marcel/twurl
 
-To run the script, simply double-click the Keynote Tweet 2 icon. To edit it, open the same file in AppleScript Editor (formerly Script Editor). Note that you cannot run this or any 'Stay-Open' script from the editor, but must run it as an application instead.
+To run the script, simply double-click the ‘Keynote Tweet’ icon. To edit it, open the same file in AppleScript Editor. Note that you cannot run this or any 'Stay-Open' script from the editor, but must run it as an application instead.
+

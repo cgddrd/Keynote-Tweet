@@ -20,3 +20,6 @@ In order for the script to work, you'll need to install and configure twurl. You
 
 To run the script, simply double-click the ‘Keynote Tweet’ icon. To edit it, open the same file in AppleScript Editor. Note that you cannot run this or any 'Stay-Open' script from the editor, but must run it as an application instead.
 
+##Usage
+
+[This tutorial](http://larahogan.me/blog/live-tweeting-from-keynote/) by [@lara_hogan](https://twitter.com/lara_hogan) provides a good set of instructions on how to setup Keynote-Tweet so that it tweets via your Twitter account within Keynote presentations.
